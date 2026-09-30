@@ -1,8 +1,4 @@
 <?php
-header("Location: login.php");
-exit();
-?>
-<?php
 
 session_start();
 
